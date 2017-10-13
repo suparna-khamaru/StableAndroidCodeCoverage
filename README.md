@@ -1,0 +1,2 @@
+# StableAndroidCodeCoverage
+Stable
