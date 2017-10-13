@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\9OctCobertura\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UTD\\StableAndroidCodeCoverage\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    }
+]

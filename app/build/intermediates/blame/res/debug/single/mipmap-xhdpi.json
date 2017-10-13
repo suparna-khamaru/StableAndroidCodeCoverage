@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UTD\\StableAndroidCodeCoverage\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UTD\\StableAndroidCodeCoverage\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\9OctCobertura\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\9OctCobertura\\UnitTestingDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UnitTestingDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

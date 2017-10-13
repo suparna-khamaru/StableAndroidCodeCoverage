@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\9OctCobertura\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\9OctCobertura\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UTD\\StableAndroidCodeCoverage\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\13OctCobertura\\UTD\\StableAndroidCodeCoverage\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
